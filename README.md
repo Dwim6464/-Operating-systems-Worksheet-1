@@ -1,5 +1,7 @@
 # -Operating-systems-Worksheet-1
 ## Notes for use
+The Alphabet.asm file is not directly related to our course, but I made it to test around with things while I was stuck on something else
+
 When you see the output you may see that it mentions a URL in the code. This is simply a link to an online compiler I have used due to complications with the C driver and such.
 
 ## Definitions
