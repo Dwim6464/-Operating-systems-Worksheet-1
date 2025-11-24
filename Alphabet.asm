@@ -1,3 +1,5 @@
+; This is not actually relevant to my course but I thought I'd include it to show what I have been doing and further understanding of assembly
+
 ; Alphabet
 ; This is not everything, I just went through and collected things I thought would be useful
 ; 046 .
