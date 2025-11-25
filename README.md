@@ -3,8 +3,11 @@
 Initially I told my program to end using the interrupt
 
 int 0x80
+
 mov eax, 1
+
 mov ebx, 0
+
 int 0x80
 
 however on the 24th of november I was instructed by my lecturer Ben not to use interupts
