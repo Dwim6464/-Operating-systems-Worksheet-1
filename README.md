@@ -19,6 +19,7 @@ The Alphabet.asm file is not directly related to our course, but I made it to te
 
 ## Definitions
 **Kernel** - the core, central part of an operating system. It is the piece of software that sits between your programs and the computer’s hardware, making everything work together safely, efficiently, and predictably.
+
 **Buffer** - a bit of memory in ram. it is larger than Registers (which are on the CPU) but slower. 
 ## Notes for me
 the comparison_tests.asm file exists so that I can make branches and see differences in code without threatening the actual one.
