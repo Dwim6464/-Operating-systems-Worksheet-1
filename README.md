@@ -12,7 +12,7 @@ mov ebx, 0
 
 int 0x80
 
-however on the 24th of november I was instructed by my lecturer Ben not to use interupts
+On the 24th of november I was instructed by my lecturer Ben not to use interupts, however on the 27th James told me that the remaining interupts were fine as they helped to keep my code running effectively. Researching it further, I have found that while it's not efficient for the CPU however for the scale that I am working at it doesn't really matter.
 ## Task1
 ## Other
 The Alphabet.asm file is not directly related to our course, but I made it to test around with things while I was stuck on something else. It began when I was using the linefeed character 10 and thought I could get two lines but actually just had the enter replaced by a lowercase d. I then experimented with 101 which gave me e and continued getting letters and later symbols. I then wrote out a short message with these values. The file has been included in this repository to show my learning of coding in assembly. 
