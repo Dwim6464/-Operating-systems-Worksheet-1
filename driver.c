@@ -1,9 +1,8 @@
-// this might be a driver I can't remember and it doesn't matter
-// hopefully
-#include <stdio.h>
+int __attribute__ ((cdecl)) asm_main( void );
+
 int main() {
-
-    printf("Hello, Hopefully this should compile something");
-
-    return 0; //This statement indicates that the program ended successfully.
+    int ret_status;
+    ret_status = asm_main();
+    //This calls an assembly function named asm_main() and return its result. it is red because asm_main does not exist in this file.
+    return ret_status;
 }
