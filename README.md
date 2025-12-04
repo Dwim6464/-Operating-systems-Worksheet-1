@@ -22,11 +22,13 @@ so instead I just copied the commands into the terminal to run my code. When I b
 ## Other
 The Alphabet.asm file is not directly related to our course, but I made it to test around with things while I was stuck on something else. It began when I was using the linefeed character 10 and thought I could get two lines but actually just had the enter replaced by a lowercase d. I then experimented with 101 which gave me e and continued getting letters and later symbols. I then wrote out a short message with these values. The file has been included in this repository to show my learning of coding in assembly. 
 
-## Definitions
+## Definitions and explanations
 **Kernel** - the core, central part of an operating system. It is the piece of software that sits between your programs and the computer’s hardware, making everything work together safely, efficiently, and predictably.
 
 **Buffer** - a bit of memory in ram. it is larger than Registers (which are on the CPU) but slower. 
 
 **elf** - stands for Executable and Linkable Format and it is in binary. If it is elf or elf32 it is for 32bit architecture but if it says elf64 it is 64 bit.
+
+**dot o files** - object files, they are made by the compiler
 ## Notes for me
 the comparison_tests.asm file exists so that I can make branches and see differences in code without threatening the actual one.
