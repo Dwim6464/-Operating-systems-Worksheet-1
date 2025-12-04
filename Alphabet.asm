@@ -41,9 +41,9 @@ section .data
     msgLen equ $ - msg
 
 section .text
-    global _start
+    global asm_main
 
-_start:
+asm_main:
     mov eax, 4        ; sys_write
     mov ebx, 1        ; stdout
     mov ecx, msg
