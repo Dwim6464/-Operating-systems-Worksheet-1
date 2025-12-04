@@ -15,7 +15,7 @@ int 0x80
 On the 24th of november I was instructed by my lecturer Ben not to use interupts, however on the 27th James told me that the remaining interupts were fine as they helped to keep my code running effectively. Researching it further, I have found that while it's not efficient for the CPU however for the scale that I am working at it doesn't really matter.
 ## Task3
 Initially I had errors each time i tried to run the Makefile <img width="819" height="92" alt="image" src="https://github.com/user-attachments/assets/c2cc0fa3-f1eb-463a-ba38-b7e411ad67aa" />
-so instead I just copied the commands into the terminal to run my code. When I brought it up to a friend he reccomended that I remove the Task2.asm from the makefile's header, this worked.<img width="852" height="108" alt="image" src="https://github.com/user-attachments/assets/b35c921a-d2d8-4840-9e4a-74652e32b808" />
+so instead I just copied the commands into the terminal to run my code. When I brought it up to a friend he reccomended that I remove the Task2.asm from the makefile's header, this worked.<img width="852" height="108" alt="image" src="https://github.com/user-attachments/assets/b35c921a-d2d8-4840-9e4a-74652e32b808" /> I did run into errors when 
 
 
 ## Task1
