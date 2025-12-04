@@ -3,7 +3,7 @@
 Task 2 was actually the first Task that I did. I heavily struggled with an error in my driver and so for much of its development I used an online compiler https://onecompiler.com/assembly so that I could keep coding and testing even while the error persisted. Eventually I reached the limits of what it could do, for example it seemed to be only able to accept one input.
 
 Initially I told my program to end using the interrupt
-
+```assembly
 int 0x80
 
 mov eax, 1
@@ -11,7 +11,7 @@ mov eax, 1
 mov ebx, 0
 
 int 0x80
-
+```
 On the 24th of november I was instructed by my lecturer Ben not to use interupts, however on the 27th James told me that the remaining interupts were fine as they helped to keep my code running effectively. Researching it further, I have found that while it's not efficient for the CPU however for the scale that I am working at it doesn't really matter.
 ## Task3
 Initially I had errors each time i tried to run the Makefile <img width="819" height="92" alt="image" src="https://github.com/user-attachments/assets/c2cc0fa3-f1eb-463a-ba38-b7e411ad67aa" />
