@@ -27,6 +27,6 @@ The Alphabet.asm file is not directly related to our course, but I made it to te
 
 **Buffer** - a bit of memory in ram. it is larger than Registers (which are on the CPU) but slower. 
 
-**elf** stands for Executable and Linkable Format and it is in binary. If it is elf or elf32 it is for 32bit architecture but if it says elf64 it is 64 bit.
+**elf** - stands for Executable and Linkable Format and it is in binary. If it is elf or elf32 it is for 32bit architecture but if it says elf64 it is 64 bit.
 ## Notes for me
 the comparison_tests.asm file exists so that I can make branches and see differences in code without threatening the actual one.
