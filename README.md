@@ -43,6 +43,7 @@ so instead I just copied the commands into the terminal to run my code. When I b
 
 
 ### Task1
+Having already made everything els 
 ### Extras
 The Alphabet.asm file is not directly related to our course, but I made it to test around with things while I was stuck on something else. It began when I was using the linefeed character 10 and thought I could get two lines but actually just had the enter replaced by a lowercase d. I then experimented with 101 which gave me e and continued getting letters and later symbols. I then wrote out a short message with these values. The file has been included in this repository to show my learning of coding in assembly. 
 
