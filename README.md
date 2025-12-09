@@ -1,4 +1,5 @@
 # -Operating-systems-Worksheet-1
+## How to run
 ## Production log
 ### Task2
 Task 2 was actually the first Task that I did. I heavily struggled with an error in my driver and so for much of its development I used an online compiler https://onecompiler.com/assembly so that I could keep coding and testing even while the error persisted. Eventually I reached the limits of what it could do, for example it seemed to be only able to accept one input.
