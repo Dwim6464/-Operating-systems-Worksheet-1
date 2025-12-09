@@ -1,10 +1,10 @@
 # -Operating-systems-Worksheet-1
 ## User Guide
 ### How to use
-In order to run the program you must first 
+In order to run the program you must first type ```make Task2``` (Task2 can be replaced with Task1 or Alphabet, I am just using it as an example) this will run all the commands within the makefile and update and build it. Then you just have to run the code with the command ```./Task2```.
 ### Task2
 #### Explanation
-Task 2 is a program that will ask you for name, with the output
+Task 2 is a program that will ask you for name, with the output:
 
 ```Hello world!```
 
@@ -15,7 +15,7 @@ upon the user giving the program their name it will ask them ```Enter a number b
 
 ```!```
 
-This is an image of the code running as intended 
+This is an image of the code running as intended:
 
 <img width="838" height="414" alt="image" src="https://github.com/user-attachments/assets/c2df839f-7bb0-404f-a250-353a260f3cac" />
 
