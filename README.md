@@ -22,6 +22,11 @@ This is an image of the code running as intended:
 The code also has appropriate error messages, should the user provide a number outside of the described range.
 <img width="812" height="158" alt="image" src="https://github.com/user-attachments/assets/89db768c-7211-4adf-8e5e-0cf4cec0bb2a" />
 <img width="807" height="155" alt="image" src="https://github.com/user-attachments/assets/610820e3-b5de-47bc-9585-a107c813fe61" />
+#### Task1
+Task 1 takes two numbers which are saved in global memory and adds them together to make a third number. The number I chose to make was 64, adding together 40 and 20.
+
+<img width="831" height="105" alt="image" src="https://github.com/user-attachments/assets/0ade0df5-af70-4446-800e-e354e0964469" />
+
 ## Production log
 ### Task2
 Task 2 was actually the first Task that I did. I heavily struggled with an error in my driver and so for much of its development I used an online compiler https://onecompiler.com/assembly so that I could keep coding and testing even while the error persisted. Eventually I reached the limits of what it could do, for example it seemed to be only able to accept one input.
