@@ -1,8 +1,8 @@
 %include "asm_io.inc"
 
 section .data
-    num1 dd 40        ; first number
-    num2 dd 24        ; second number (40 + 24 = 64)
+    num1 dd 40        ; dd allocates 4 bytes per character
+    num2 dd 24
 
 section .text
     global asm_main
@@ -18,7 +18,6 @@ asm_main:
     ; Print result using print_int
     push eax
     call print_int
-    add esp, 4
+    add esp, 4 ;this bit cleans the stack
 
-    ; Return result to C caller
     ret
