@@ -41,11 +41,11 @@ On the 24th of november I was instructed by my lecturer Ben not to use interupts
 Initially I had errors each time i tried to run the Makefile <img width="819" height="92" alt="image" src="https://github.com/user-attachments/assets/c2cc0fa3-f1eb-463a-ba38-b7e411ad67aa" />
 so instead I just copied the commands into the terminal to run my code. When I brought it up to a friend he reccomended that I remove the Task2.asm from the makefile's header, this worked.<img width="852" height="108" alt="image" src="https://github.com/user-attachments/assets/b35c921a-d2d8-4840-9e4a-74652e32b808" /> I did run into errors with my Alphabet file as it had been coded in a way that worked for the online compiler but  did not with the commands within my Makefile as I had named what later became my asm_main function something different, after changing that it allowed me to run my Alphabet file. I also found that i can add comments to a makefile with a hashtag.
 
+### Extras
+The Alphabet.asm file is not directly related to our course, but I made it to test around with things while I was stuck on something else. It began when I was using the linefeed character 10 and thought I could get two lines but actually just had the enter replaced by a lowercase d. I then experimented with 101 which gave me e and continued getting letters and later symbols. I then wrote out a short message with these values. The file has been included in this repository to show my learning of coding in assembly.
 
 ### Task1
-Having already made everything els 
-### Extras
-The Alphabet.asm file is not directly related to our course, but I made it to test around with things while I was stuck on something else. It began when I was using the linefeed character 10 and thought I could get two lines but actually just had the enter replaced by a lowercase d. I then experimented with 101 which gave me e and continued getting letters and later symbols. I then wrote out a short message with these values. The file has been included in this repository to show my learning of coding in assembly. 
+Having already made Task 1, 3, and an extra file Task 1 was able to be completed with minimal problems.
 
 ## Definitions and explanations
 **Kernel** - the core, central part of an operating system. It is the piece of software that sits between your programs and the computer’s hardware, making everything work together safely, efficiently, and predictably.
