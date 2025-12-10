@@ -2,8 +2,8 @@
 ## User Guide
 ### How to use
 In order to run the program you must first type ```make Task2``` (Task2 can be replaced with Task1 or Alphabet, I am just using it as an example) this will run all the commands within the makefile and update and build it. Then you just have to run the code with the command ```./Task2```.
-### Task2
-#### Explanation
+### Explanations
+#### Task2
 Task 2 is a program that will ask you for name, with the output:
 
 ```Hello world!```
