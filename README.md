@@ -50,7 +50,7 @@ so instead I just copied the commands into the terminal to run my code. When I b
 The Alphabet.asm file is not directly related to our course, but I made it to test around with things while I was stuck on something else. It began when I was using the linefeed character 10 and thought I could get two lines but actually just had the enter replaced by a lowercase d. I then experimented with 101 which gave me e and continued getting letters and later symbols. I then wrote out a short message with these values. The file has been included in this repository to show my learning of coding in assembly.
 
 ### Task1
-Having already made Task 1, 3, and an extra file Task 1 was able to be completed with minimal problems.
+Having already made Task 1, 3, and an extra file Task 1 was able to be completed with minimal problems, as I had already used a lot of assembly by that point.
 
 ## Definitions and explanations
 **Kernel** - the core, central part of an operating system. It is the piece of software that sits between your programs and the computer’s hardware, making everything work together safely, efficiently, and predictably.
